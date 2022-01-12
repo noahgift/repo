@@ -5,6 +5,7 @@ def marco(name):
         return "Polo"
     return "No!"
 
+
 print(marco("Marco"))
 # lint this
 # var = 1
