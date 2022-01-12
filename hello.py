@@ -8,5 +8,5 @@ def marco(name):
 
 print(marco("Marco"))
 # lint this
-var = 1
-var=var
+#var = 1
+#var=var
